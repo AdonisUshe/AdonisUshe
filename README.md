@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adonis</h1>
 <h3 align="center">An aspiring full stack developer</h3>
-<img align = "right" alt= "Coding" width = "400" src ="https://th.bing.com/th/id/R.3cdfe0eaab6fb743efe41501654af7bb?rik=UGs%2flUFAugVJVQ&riu=http%3a%2f%2fredbird-coding.com%2fimages%2fcoding3.png&ehk=qmZMfqWfokKTQJYuK9GjWTkpRhaGmX3JDvINHNnULFQ%3d&risl=&pid=ImgRaw&r=0">
+<img align = "right" alt= "Coding" width = "300" src ="https://th.bing.com/th/id/R.3cdfe0eaab6fb743efe41501654af7bb?rik=UGs%2flUFAugVJVQ&riu=http%3a%2f%2fredbird-coding.com%2fimages%2fcoding3.png&ehk=qmZMfqWfokKTQJYuK9GjWTkpRhaGmX3JDvINHNnULFQ%3d&risl=&pid=ImgRaw&r=0">
 
 - 🌱 I’m currently learning **Full Stack Web Development with Hyperion Dev**
 
