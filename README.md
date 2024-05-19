@@ -20,5 +20,5 @@
 <img src="https://img.favpng.com/24/0/1/python-scalable-vector-graphics-logo-javascript-clip-art-png-favpng-7AMPmkRx5u0JQsydMRxFv8mKn.jpg" alt="python" width="40" height="40"/> 
 <img src="https://nickroberts.ninja/wp-content/uploads/2017/07/react-1024x1024.jpg" alt ="react" width="40" height="40"/>
 <img src="https://innovationyourself.com/wp-content/uploads/2020/08/nodejs-logo.png" alt="node.js" widtch = "40" height ="40" />
-<img src= "https://th.bing.com/th/id/R.4099ef6a1abf1017541a3610518ae1bc?rik=MBn0BEzOCzDMIg&riu=http%3a%2f%2fs3.amazonaws.com%2finfo-mongodb-com%2f_com_assets%2fcms%2fkuzt9r42or1fxvlq2-Meta_Generic.png&ehk=4LHQqZSvagc%2fLeF%2fIYFZWxb2l%2fqZbOWQctbvElNvSv8%3d&risl=&pid=ImgRaw&r=0" alt = "mongoDB" width = "40" height = "40" />
+<img src= "https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" alt = "mongoDB" width = "40" height = "40" />
 </p>
