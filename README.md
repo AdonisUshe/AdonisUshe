@@ -19,4 +19,5 @@
 <img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" alt="javascript" width="40" height="40"/>
 <img src="https://img.favpng.com/24/0/1/python-scalable-vector-graphics-logo-javascript-clip-art-png-favpng-7AMPmkRx5u0JQsydMRxFv8mKn.jpg" alt="python" width="40" height="40"/> 
 <img src="https://nickroberts.ninja/wp-content/uploads/2017/07/react-1024x1024.jpg" alt ="react" width="40" height="40"/>
+<img src="https://innovationyourself.com/wp-content/uploads/2020/08/nodejs-logo.png" alt="node.js" widtch = "40" height ="40" />
 </p>
