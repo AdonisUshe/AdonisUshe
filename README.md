@@ -18,5 +18,5 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/167_Html5_logo_logos-1024.png" alt="html5" width="40" height="40"/> 
 <img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" alt="javascript" width="40" height="40"/>
 <img src="https://img.favpng.com/24/0/1/python-scalable-vector-graphics-logo-javascript-clip-art-png-favpng-7AMPmkRx5u0JQsydMRxFv8mKn.jpg" alt="python" width="40" height="40"/> 
-<img src="https://www.techlifediary.com/wp-content/uploads/2020/06/react-js-1024x584.png" alt ="react" width="40" height="40"/>
+<img src="https://www.techlifediary.com/wp-content/uploads/2020/06/react-js.png" alt ="react" width="40" height="40"/>
 </p>
