@@ -18,5 +18,5 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/167_Html5_logo_logos-1024.png" alt="html5" width="40" height="40"/> 
 <img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" alt="javascript" width="40" height="40"/>
 <img src="https://img.favpng.com/24/0/1/python-scalable-vector-graphics-logo-javascript-clip-art-png-favpng-7AMPmkRx5u0JQsydMRxFv8mKn.jpg" alt="python" width="40" height="40"/> 
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" alt ="react" width="40" height="40"/>
+<img src="https://camo.githubusercontent.com/cff8fefeb3779f38d9a528f1698a637b7e424c87b5b2ebbd8a966f5a55c4e475/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6e6577732f636f6e74656e742f696d616765732f73697a652f77323030302f323032312f30362f456b72616e2d5265736d692d323031392d31312d31382d31382e30382e31332e706e67" alt ="react" width="40" height="40"/>
 </p>
